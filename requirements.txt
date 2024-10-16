@@ -1,0 +1,6 @@
+google-cloud-bigquery  # Example, check for the latest compatible version
+Flask
+gunicorn
+pandas
+pyarrow
+pytest
